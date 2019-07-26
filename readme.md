@@ -1,6 +1,6 @@
 
-[学习链接](https://cuiqingcai.com/6921.html)  
-[Git链接]()   
+[本项目学习链接](https://cuiqingcai.com/6921.html)  
+[Git链接](https://github.com/squabbysheep/PythonLogging)   
 [当才华配不上野心时，请竭力奔跑](https://github.com/squabbysheep/Stride-forward/blob/master/README.md)   
 
 ## 笔记   
